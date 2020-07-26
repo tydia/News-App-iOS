@@ -12,7 +12,7 @@ For pods used, you can go to the `Pods` directory to have an idea. In addition t
 - [Open Weather API](https://openweathermap.org/api)
 - [Guardian's News API](https://open-platform.theguardian.com)
 - [Bing Autosuggest API](https://azure.microsoft.com/en-us/services/cognitive-services/autosuggest/)
-- [Google Trends API](https://trends.google.com/trends/?geo=US)
+- [Google Trends API](https://trends.google.com/trends/?geo=US)  
 A Node.js backend was developed and deployed on AWS for fetching contents. See `news_app_ios_backend` folder for backend code.
 
 ## Important note: 
